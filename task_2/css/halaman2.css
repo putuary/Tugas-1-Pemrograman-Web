@@ -1,0 +1,22 @@
+body {
+  background-image: url("../gambar/halaman2.jpg");
+  background-repeat: repeat;
+  background-size: 100%;
+  background-attachment: fixed;
+}
+table {
+  border-radius: 25px;
+  padding: 50px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgba(13, 167, 238, 0.911);
+}
+h2 {
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+  line-height: 10px;
+}
